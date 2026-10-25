@@ -1,8 +1,8 @@
 <!-- unlv-museum-banner-start -->
 <a href="https://unlv-museum.recanon.com/html-fundamentals/bird-songs" target="_blank" rel="noopener">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.recanon.com/github-banners/bird-songs?theme=dark&v=12900fa5ee">
-    <img src="https://unlv-museum.recanon.com/github-banners/bird-songs?theme=light&v=12900fa5ee" alt="Bird Songs" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://unlv-museum.recanon.com/github-banners/bird-songs?theme=dark&v=91a10ab682">
+    <img src="https://unlv-museum.recanon.com/github-banners/bird-songs?theme=light&v=91a10ab682" alt="Five-page bird gallery in plain HTML — four bird pages with photos, song recordings and YouTube embeds (chapter 2.4.1)." width="100%">
   </picture>
 </a>
 
